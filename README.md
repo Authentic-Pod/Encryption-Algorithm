@@ -6,5 +6,8 @@ A simple program that can encrypt and decrypt text given a key, which can also b
 - Git (To clone repository, not needed if downloading as a zip file)
 
 ## How to run
-'''
-git clone https://
+```
+git clone https://github.com/Authentic-Pod/Encryption-Algorithm.git
+cd Encryption-Algorithm
+python3 app.py
+```
