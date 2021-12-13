@@ -3,7 +3,7 @@ A simple program that can encrypt and decrypt text given a key, which can also b
 
 ## Dependencies
 - Python 3 (Preferably 3.9.0 or later)
-- Git (To clone repository, not needed if downloading as a zip file)
+- Git (To clone repository, not needed if downloading as a .zip file)
 
 ## How to run
 ```
